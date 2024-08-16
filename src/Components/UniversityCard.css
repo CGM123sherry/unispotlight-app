@@ -1,0 +1,27 @@
+/* Styling for individual university cards */
+.university-card {
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s, transform 0.3s;
+  color: #333;
+}
+
+.university-card:hover {
+  background-color: #e9ecef;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3);
+  transform: translateY(-4px);
+}
+
+.university-card h3 {
+  margin: 0 0 0.5rem;
+  color: #007bff;
+}
+
+.university-card p {
+  margin: 0;
+  color: #6c757d;
+}

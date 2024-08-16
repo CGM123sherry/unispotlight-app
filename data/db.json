@@ -1,0 +1,498 @@
+{
+  "Universities": [
+    {
+      "id": "1",
+      "name": "Africa International University",
+      "domains": ["aiu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.aiu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 1234567",
+        "email": "info@aiu.ac.ke",
+        "address": "P.O. Box 24686, Karen, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Africa Nazarene University",
+      "domains": ["anu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.anu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 7654321",
+        "email": "info@anu.ac.ke",
+        "address": "P.O. Box 53067, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Adventist University of Africa",
+      "domains": ["aua.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.aua.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 9876543",
+        "email": "info@aua.ac.ke",
+        "address": "P.O. Box 00503, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Chuka University",
+      "domains": ["chuka.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.chuka.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8765432",
+        "email": "info@chuka.ac.ke",
+        "address": "P.O. Box 109-60400, Chuka, Kenya"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Catholic University of Eastern Africa",
+      "domains": ["cuea.edu"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.cuea.edu/"],
+      "contact": {
+        "phone": "+254 20 1230987",
+        "email": "info@cuea.edu",
+        "address": "P.O. Box 62157, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Daystar University",
+      "domains": ["daystar.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.daystar.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2345678",
+        "email": "info@daystar.ac.ke",
+        "address": "P.O. Box 44400, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Dedan Kimathi University of Technology",
+      "domains": ["dkut.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.dkut.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 3456789",
+        "email": "info@dkut.ac.ke",
+        "address": "P.O. Box 657, Nyeri, Kenya"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Egerton University",
+      "domains": ["egerton.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.egerton.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 4567890",
+        "email": "info@egerton.ac.ke",
+        "address": "P.O. Box 536, Njoro, Kenya"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Great Lakes University of Kisumu",
+      "domains": ["gluk.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.gluk.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 5678901",
+        "email": "info@gluk.ac.ke",
+        "address": "P.O. Box 2224, Kisumu, Kenya"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Gretsa University",
+      "domains": ["gretsauniversity.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.gretsauniversity.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 6789012",
+        "email": "info@gretsauniversity.ac.ke",
+        "address": "P.O. Box 2255, Thika, Kenya"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Inoorero University",
+      "domains": ["iu.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.iu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 7890123",
+        "email": "info@iu.ac.ke",
+        "address": "P.O. Box 38743, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Jomo Kenyatta University of Agriculture and Technology",
+      "domains": ["jkuat.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.jkuat.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8901234",
+        "email": "info@jkuat.ac.ke",
+        "address": "P.O. Box 62000, Juja, Kenya"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Jaramogi Oginga Odinga University of Science and Technology",
+      "domains": ["jooust.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.jooust.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 9012345",
+        "email": "info@jooust.ac.ke",
+        "address": "P.O. Box 210-40601, Bondo, Kenya"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Kabarak University",
+      "domains": ["kabarak.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.kabarak.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 0123456",
+        "email": "info@kabarak.ac.ke",
+        "address": "P.O. Box 20157, Kabarak, Kenya"
+      }
+    },
+    {
+      "id": "15",
+      "name": "University of Kabianga",
+      "domains": ["kabianga.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.kabianga.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 1234568",
+        "email": "info@kabianga.ac.ke",
+        "address": "P.O. Box 2030, Kericho, Kenya"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Karatina University",
+      "domains": ["karatinauniversity.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.karatinauniversity.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2345679",
+        "email": "info@karatinauniversity.ac.ke",
+        "address": "P.O. Box 1957, Karatina, Kenya"
+      }
+    },
+    {
+      "id": "38",
+      "name": "Kenya College of Accountancy",
+      "domains": ["kca.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.kca.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 3456780",
+        "email": "info@kca.ac.ke",
+        "address": "P.O. Box 18321, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Kenya Methodist University",
+      "domains": ["kemu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.kemu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 4567891",
+        "email": "info@kemu.ac.ke",
+        "address": "P.O. Box 267, Meru, Kenya"
+      }
+    },
+    {
+      "id": "18",
+      "name": "Kenya National Open University",
+      "domains": ["knou.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.knou.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 5678902",
+        "email": "info@knou.ac.ke",
+        "address": "P.O. Box 7091, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Kenya Polytechnic University College",
+      "domains": ["kenpoly.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.kenpoly.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 6789013",
+        "email": "info@kenpoly.ac.ke",
+        "address": "P.O. Box 52428, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Kenyatta University",
+      "domains": ["ku.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.ku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 7890124",
+        "email": "info@ku.ac.ke",
+        "address": "P.O. Box 43844, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Laikipia University",
+      "domains": ["laikipia.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.laikipia.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8901235",
+        "email": "info@laikipia.ac.ke",
+        "address": "P.O. Box 110-20300, Laikipia, Kenya"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Maseno University",
+      "domains": ["maseno.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.maseno.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 9012346",
+        "email": "info@maseno.ac.ke",
+        "address": "P.O. Box 333, Maseno, Kenya"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Masinde Muliro University of Science and Technology",
+      "domains": ["mmust.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.mmust.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 0123457",
+        "email": "info@mmust.ac.ke",
+        "address": "P.O. Box 190-50100, Kakamega, Kenya"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Mount Kenya University",
+      "domains": ["mku.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.mku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 1234569",
+        "email": "info@mku.ac.ke",
+        "address": "P.O. Box 342-60200, Thika, Kenya"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Multimedia University of Kenya",
+      "domains": ["mmu.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.mmu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2345670",
+        "email": "info@mmu.ac.ke",
+        "address": "P.O. Box 15653, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Nairobi Institute of Technology",
+      "domains": ["nit.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.nit.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 3456781",
+        "email": "info@nit.ac.ke",
+        "address": "P.O. Box 13400, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Nairobi University",
+      "domains": ["uonbi.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.uonbi.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 4567892",
+        "email": "info@uonbi.ac.ke",
+        "address": "P.O. Box 30197, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Riara University",
+      "domains": ["riarauniversity.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.riarauniversity.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 5678903",
+        "email": "info@riarauniversity.ac.ke",
+        "address": "P.O. Box 55599, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "29",
+      "name": "South Eastern Kenya University",
+      "domains": ["seku.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.seku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 6789014",
+        "email": "info@seku.ac.ke",
+        "address": "P.O. Box 170-60400, Kitui, Kenya"
+      }
+    },
+    {
+      "id": "30",
+      "name": "St. Paul’s University",
+      "domains": ["spu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.spu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 7890125",
+        "email": "info@spu.ac.ke",
+        "address": "P.O. Box 1104-00902, Limuru, Kenya"
+      }
+    },
+    {
+      "id": "31",
+      "name": "Strathmore University",
+      "domains": ["strathmore.edu"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.strathmore.edu/"],
+      "contact": {
+        "phone": "+254 20 8901236",
+        "email": "info@strathmore.edu",
+        "address": "P.O. Box 59857, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "32",
+      "name": "Technical University of Kenya",
+      "domains": ["tukenya.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.tukenya.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 9012347",
+        "email": "info@tukenya.ac.ke",
+        "address": "P.O. Box 52428, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "33",
+      "name": "United States International University Africa",
+      "domains": ["usiu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.usiu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 1234560",
+        "email": "info@usiu.ac.ke",
+        "address": "P.O. Box 14634, Nairobi, Kenya"
+      }
+    },
+    {
+      "id": "34",
+      "name": "University of Eastern Africa Baraton",
+      "domains": ["ueab.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.ueab.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2345671",
+        "email": "info@ueab.ac.ke",
+        "address": "P.O. Box 2500, Baraton, Kenya"
+      }
+    },
+    {
+      "id": "35",
+      "name": "University of Eldoret",
+      "domains": ["uoeld.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.uoeld.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 3456782",
+        "email": "info@uoeld.ac.ke",
+        "address": "P.O. Box 1125, Eldoret, Kenya"
+      }
+    },
+    {
+      "id": "36",
+      "name": "University of Kabianga",
+      "domains": ["ukab.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.ukab.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 4567893",
+        "email": "info@ukab.ac.ke",
+        "address": "P.O. Box 2030, Kericho, Kenya"
+      }
+    },
+    {
+      "id": "37",
+      "name": "University of Nairobi",
+      "domains": ["uonbi.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.uonbi.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 5678904",
+        "email": "info@uonbi.ac.ke",
+        "address": "P.O. Box 30197, Nairobi, Kenya"
+      }
+    }
+  ]
+}

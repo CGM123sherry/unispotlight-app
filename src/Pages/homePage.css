@@ -1,0 +1,99 @@
+/* Container for the home page */
+.home-container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+  background-color: #f4f7f6;
+}
+
+/* Sidebar styles */
+.sidebar {
+  width: 30%;
+  overflow-y: auto;
+  border-right: 1px solid #ddd;
+  padding: 10px;
+  background-color: #555;
+  color: #ecf0f1;
+}
+
+/* Details section styles */
+.details {
+  width: 70%;
+  padding: 20px;
+  background-color: #ecf0f1;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Text styling in details section */
+.details p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #2c3e50;
+}
+
+.details h2 {
+  margin-bottom: 15px;
+  color: #34495e;
+  font-weight: 600;
+}
+
+/* Links in details section */
+.details a {
+  font-size: 18px;
+  color: #2980b9;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for universities in the sidebar */
+.sidebar .university:hover {
+  color: #ecf0f1;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Navbar styles (example) */
+.navbar {
+  background-color: #2980b9;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 18px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  transition: color 0.3s ease;
+}
+
+/* Additional styling suggestions */
+.sidebar h3 {
+  color: #ecf0f1;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+/* Customize scrollbar for the sidebar */
+.sidebar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background-color: #34495e;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background-color: #2980b9;
+  border-radius: 10px;
+}
+
+/* Add subtle animation to the details section on hover */
+.details:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}

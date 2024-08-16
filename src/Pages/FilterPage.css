@@ -1,0 +1,73 @@
+/* General container styling */
+.filter-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
+  min-height: 100vh;
+  background: url("../images/university-columns.jpg") no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+/* Styling for the filter options section */
+.filter-options {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Slightly transparent background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  width: 300px;
+}
+
+/* Styling for the university list section */
+.university-list {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.8
+  ); /* Slightly transparent background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  width: 100%;
+  max-width: 1200px;
+  overflow-y: auto;
+}
+
+/* Styling for individual university cards */
+.university-card {
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.university-card:hover {
+  background-color: #d1d1d1;
+  transform: scale(1.02);
+}
+
+.university-card h3 {
+  margin: 0 0 0.5rem;
+}
+
+.university-card p {
+  margin: 0;
+}
+
+/* Styling for loading and no results message */
+.message {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #555;
+  padding: 2rem;
+}
