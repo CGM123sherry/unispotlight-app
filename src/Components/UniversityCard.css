@@ -3,8 +3,8 @@
   list-style: none;
   padding: 0;
   margin: 0;
-  max-height: 80vh; /* Limit the height to allow scrolling */
-  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: 80vh;
+  overflow-y: auto;
 }
 
 .university-list li {
@@ -12,12 +12,12 @@
 }
 
 .university-list li:hover {
-  background-color: #d3d3d3; /* Highlight on hover */
+  background-color: #d3d3d3;
 }
 
 .university-list li.selected {
-  background-color: #007bff; /* Highlight selected university */
-  color: #ffffff; /* Change text color to white */
+  background-color: #007bff;
+  color: #ffffff;
 }
 
 .university-card {

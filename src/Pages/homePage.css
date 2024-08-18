@@ -2,13 +2,13 @@
   display: flex;
   flex-direction: row;
   align-items: flex-start;
-  min-height: 100vh; /* Ensure full height of the viewport */
+  min-height: 100vh;
 }
 
 .add-university-navbar {
   position: fixed;
   top: 0;
-  left: 200px; /* Matches the width of the sidebar */
+  left: 200px;
   right: 0;
   display: flex;
   align-items: center;
@@ -16,15 +16,15 @@
   padding: 10px;
   background-color: #f8f9fa;
   border-bottom: 2px solid #007bff;
-  z-index: 1000; /* Ensure it stays above other content */
+  z-index: 1000;
 }
 
 .sidebar {
-  width: 200px; /* Increase the width of the sidebar */
+  width: 200px;
   background-color: #acafb2;
   padding: 10px;
   border-right: 2px solid #007bff;
-  min-height: 80vh; /* Ensure it spans the full height of the page */
+  min-height: 80vh;
   position: absolute;
   top: 20;
   left: 1;
@@ -41,15 +41,15 @@
 }
 
 .sidebar a:hover {
-  background-color: pink#495057; /* Darker shade on hover */
-  color: #ffffff; /* Keep the text color white */
+  background-color: pink#495057;
+  color: #ffffff;
 }
 
 .details {
   flex-grow: 1;
   padding: 20px;
-  margin-top: 60px; /* Adjust for the height of the navbar */
-  margin-left: 270px; /* Adjust for the width of the sidebar */
+  margin-top: 60px;
+  margin-left: 270px;
 }
 
 .add-university-navbardiv {

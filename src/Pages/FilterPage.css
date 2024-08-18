@@ -8,29 +8,29 @@
   background: url("../images/university-columns.jpg") no-repeat center center
     fixed;
   background-size: cover;
-  position: relative; /* Ensure relative positioning for absolute elements */
+  position: relative; /
 }
 
-/* Content container styling */
+
 .content-container {
   display: flex;
   flex: 1;
 }
 
-/* Styling for the left sidebar (university list) */
+
 .left-sidebar {
-  width: 25%; /* Sidebar takes up 25% of the width */
+  width: 25%; 
   padding: 10px;
-  position: fixed; /* Fixed for consistent placement */
-  top: 60px; /* Adjust based on navbar height */
-  left: 0; /* Aligns the sidebar to the left edge of the viewport */
+  position: fixed; 
+  top: 60px; 
+  left: 0; 
   background-color: rgba(255, 255, 255, 0.9);
   border-right: 2px solid #ddd;
   border-radius: 8px;
   box-shadow: 4px 8px rgba(0, 0, 0, 0.2);
-  height: calc(100vh - 60px); /* Full height minus navbar height */
+  height: calc(100vh - 60px); 
   overflow-y: auto;
-  z-index: 100; /* Ensure it stays above other content */
+  z-index: 100; 
 }
 
 .left-sidebar .heading {
@@ -40,27 +40,27 @@
 }
 
 .left-sidebar .search-bar {
-  margin-top: 20px; /* Ensure search bar is spaced from the top */
+  margin-top: 20px; 
 }
 
-/* Styling for the right content area (filter options) */
+
 .right-content {
-  width: calc(100% - 25%); /* Accounts for the sidebar width */
-  padding: 50px; /* Adds padding inside the element for spacing */
-  margin-left: 25%; /* Align it next to the sidebar */
-  box-sizing: border-box; /* Ensure padding is included in the width */
+  width: calc(100% - 25%); 
+  padding: 50px; 
+  margin-left: 25%; 
+  box-sizing: border-box; 
 }
 
-/* Add course form styling */
+
 .add-course-form {
-  position: fixed; /* Fixed to stay at the top */
-  top: 60px; /* Adjust based on navbar height */
-  left: 25%; /* Positioned to start at the end of the sidebar */
-  width: 75%; /* Take up remaining width */
+  position: fixed; 
+  top: 60px; 
+  left: 25%; 
+  width: 75%; 
   background: #f9f9f9;
   padding: 10px;
   border-bottom: 1px solid #ddd;
-  z-index: 1000; /* Ensure it stays above other content */
+  z-index: 1000; 
 }
 
 .message {
@@ -68,7 +68,7 @@
   color: #555;
 }
 
-/* Styling for the course suggestions dropdown */
+
 .course-suggestions {
   border: 1px solid #ddd;
   background: #fff;
@@ -87,13 +87,13 @@
   background: #ddd;
 }
 
-/* Styling for the filter options (course list) */
+
 .filter-options {
   background-color: rgba(255, 255, 255, 0.9);
   border-radius: 8px;
   box-shadow: 4px 8px rgba(0, 0, 0, 0.2);
   padding: 1rem;
-  margin-left: 0; /* Remove any left margin */
+  margin-left: 0; 
 }
 
 .filter-options ul {
@@ -114,7 +114,7 @@
   transform: scale(1.02);
 }
 
-/* Styling for individual university cards */
+
 .university-card {
   background-color: #e0e0e0;
   border-radius: 8px;
@@ -137,7 +137,7 @@
   margin: 0;
 }
 
-/* Styling for loading and no results message */
+
 .message {
   text-align: center;
   font-size: 1.5rem;
@@ -148,7 +148,7 @@
   box-shadow: 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Navigation bar styling */
+
 .navbar {
   position: fixed; /* Fixed to stay at the top */
   top: 0;

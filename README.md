@@ -1,20 +1,13 @@
 # Unispolight App
 
-Welcome to the Unispolight App! This application provides detailed information about universities, including a searchable and filterable list of universities, and contact details for each institution.
+Welcome to the Unispolight App! This application provides detailed information about universities, including a searchable and filterable list of universities, courses and contact details for each institution.
 
 # The Unispotlight App allows users to:
 
 1. Search for universities by name.
-2. Filter universities by ownership type (public or private).
+2. Check on the courses offered
 3. View detailed contact information for each university.
-4. Navigate through a user-friendly interface with dynamic content loading.
-
-# Features
-
-Search Functionality: Search universities by name and view their details.
-Filter Options: Filter universities based on ownership type.
-Contact Information: Access contact details, including email, phone, address, and website for each university.
-Responsive Design: Enjoy a consistent experience across different devices.
+4. Add an university and a course.
 
 ## Pages
 
@@ -26,17 +19,21 @@ Responsive Design: Enjoy a consistent experience across different devices.
 
             University Details: When a university is selected, its website is displayed in an embedded frame.
 
+            additionally, a user can add a university in the portfolio for other users to engage.
+
 Use the search bar to type the name of a university.
 Click on a university card from the list to view its details.
-The selected university's website will be displayed on the right side.
 
-2.  Filter Page
-    The Filter Page allows you to filter universities based on their ownership type.
-    Filter Options: Select the type of ownership (Public or Private) from the dropdown menu.
+Add a university by filling in the form. the newly add university will appear at the bottom of the list, in the side navbar.
 
-            University List: The list of universities will update to show only those matching the selected ownership type.
+2.  Courses Page
+    The Course Page allows you to to view the courses offered by the universities individually.
+    Select the university, click on it, and a list of courses pops up.
 
-            Reset Filter: To view all universities again, select "All" from the filter dropdown.
+            A list of courses will help the user know if the university offers the course they intrested in.
+
+            Add Course form allows the users to make a course adjustment by add a course to the potfolio.
+
 
 3.  Contact Page
     The Contact Page provides contact details for each university. It includes:
