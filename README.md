@@ -5,13 +5,15 @@ Welcome to the Unispolight App! This application provides detailed information a
 # The Unispotlight App allows users to:
 
 1. Search for universities by name.
-2. Check on the courses offered
-3. View detailed contact information for each university.
-4. Add an university and a course.
+2. Add an university
+3. Check on the courses offered.
+4. Add a course.
+5. View detailed contact information for each university.
 
 ## Pages
 
-1.  Home Page
+1.  ## Home Page
+
     The Home Page is the landing page of the application. It features:
     Search Bar: Located at the top, allowing you to search for universities by name.
 
@@ -26,7 +28,8 @@ Click on a university card from the list to view its details.
 
 Add a university by filling in the form. the newly add university will appear at the bottom of the list, in the side navbar.
 
-2.  Courses Page
+2.  ## Courses Page
+
     The Course Page allows you to to view the courses offered by the universities individually.
     Select the university, click on it, and a list of courses pops up.
 
@@ -34,7 +37,7 @@ Add a university by filling in the form. the newly add university will appear at
 
             Add Course form allows the users to make a course adjustment by add a course to the potfolio.
 
-3.  Contact Page
+3.  ## Contact Page
     The Contact Page provides contact details for each university. It includes:
     University Cards: Each card displays the university’s name, email, phone number, address, and website.
     Layout: The page shows multiple university cards in a grid layout for easy access.
