@@ -1,4 +1,25 @@
 /* Styling for individual university cards */
+.university-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 80vh; /* Limit the height to allow scrolling */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.university-list li {
+  margin-bottom: 10px;
+}
+
+.university-list li:hover {
+  background-color: #d3d3d3; /* Highlight on hover */
+}
+
+.university-list li.selected {
+  background-color: #007bff; /* Highlight selected university */
+  color: #ffffff; /* Change text color to white */
+}
+
 .university-card {
   background-color: #f8f9fa;
   border-radius: 12px;

@@ -1,99 +1,89 @@
-/* Container for the home page */
 .home-container {
   display: flex;
-  height: 100vh;
-  overflow: hidden;
-  background-color: #f4f7f6;
+  flex-direction: row;
+  align-items: flex-start;
+  min-height: 100vh; /* Ensure full height of the viewport */
 }
 
-/* Sidebar styles */
-.sidebar {
-  width: 30%;
-  overflow-y: auto;
-  border-right: 1px solid #ddd;
+.add-university-navbar {
+  position: fixed;
+  top: 0;
+  left: 200px; /* Matches the width of the sidebar */
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   padding: 10px;
-  background-color: #555;
-  color: #ecf0f1;
+  background-color: #f8f9fa;
+  border-bottom: 2px solid #007bff;
+  z-index: 1000; /* Ensure it stays above other content */
 }
 
-/* Details section styles */
+.sidebar {
+  width: 200px; /* Increase the width of the sidebar */
+  background-color: #acafb2;
+  padding: 10px;
+  border-right: 2px solid #007bff;
+  min-height: 80vh; /* Ensure it spans the full height of the page */
+  position: absolute;
+  top: 20;
+  left: 1;
+  z-index: 1000;
+}
+
+.sidebar a {
+  display: block;
+  color: #ffffff;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.sidebar a:hover {
+  background-color: pink#495057; /* Darker shade on hover */
+  color: #ffffff; /* Keep the text color white */
+}
+
 .details {
-  width: 70%;
+  flex-grow: 1;
   padding: 20px;
-  background-color: #ecf0f1;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 60px; /* Adjust for the height of the navbar */
+  margin-left: 270px; /* Adjust for the width of the sidebar */
 }
 
-/* Text styling in details section */
-.details p {
-  font-size: 16px;
-  line-height: 1.6;
-  margin-bottom: 20px;
-  color: #2c3e50;
+.add-university-navbardiv {
+  margin-bottom: 0;
 }
 
-.details h2 {
-  margin-bottom: 15px;
-  color: #34495e;
-  font-weight: 600;
+.add-university-navbarlabel {
+  margin-right: 10px;
+  font-weight: bold;
 }
 
-/* Links in details section */
-.details a {
-  font-size: 18px;
-  color: #2980b9;
-  text-decoration: none;
-  transition: color 0.3s ease;
-}
-
-/* Hover effect for universities in the sidebar */
-.sidebar .university:hover {
-  color: #ecf0f1;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-/* Navbar styles (example) */
-.navbar {
-  background-color: #2980b9;
-  padding: 10px 20px;
-  color: #fff;
-  font-size: 18px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.navbar a {
-  color: #fff;
-  text-decoration: none;
+.add-university-navbarinput {
+  padding: 5px;
   margin-right: 20px;
-  transition: color 0.3s ease;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
-/* Additional styling suggestions */
-.sidebar h3 {
-  color: #ecf0f1;
-  font-size: 20px;
-  margin-bottom: 15px;
+.add-university-navbarbutton {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
 }
 
-/* Customize scrollbar for the sidebar */
-.sidebar::-webkit-scrollbar {
-  width: 8px;
+.add-university-navbarbutton:hover {
+  background-color: #0056b3;
 }
 
-.sidebar::-webkit-scrollbar-track {
-  background-color: #34495e;
-}
-
-.sidebar::-webkit-scrollbar-thumb {
-  background-color: #2980b9;
-  border-radius: 10px;
-}
-
-/* Add subtle animation to the details section on hover */
-.details:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
+.empty-state img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }

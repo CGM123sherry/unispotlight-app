@@ -2,497 +2,1287 @@
   "Universities": [
     {
       "id": "1",
-      "name": "Africa International University",
-      "domains": ["aiu.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.aiu.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 1234567",
-        "email": "info@aiu.ac.ke",
-        "address": "P.O. Box 24686, Karen, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "2",
       "name": "Africa Nazarene University",
       "domains": ["anu.ac.ke"],
       "ownership": "Private",
       "state-province": null,
       "web_pages": ["http://www.anu.ac.ke/"],
       "contact": {
-        "phone": "+254 20 7654321",
+        "phone": "+254 20 1234567",
         "email": "info@anu.ac.ke",
         "address": "P.O. Box 53067, Nairobi, Kenya"
-      }
+      },
+      "courses": [
+        "Bachelor of Business Administration",
+        "Bachelor of Computer Science",
+        "Bachelor of Law",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Commerce",
+        "Bachelor of Arts in Communication",
+        "Bachelor of Theology",
+        "Bachelor of Science in Environment and Natural Resources",
+        "Bachelor of Arts in International Relations",
+        "Master of Business Administration",
+        "Master of Arts in Religion",
+        "Master of Education",
+        "Master of Science in Organizational Development",
+        "Postgraduate Diploma in Education",
+        "Diploma in Business Management",
+        "Diploma in Computer Science",
+        "Diploma in Theology",
+        "Certificate in Business Management",
+        "Certificate in Computer Science"
+      ]
     },
     {
-      "id": "3",
-      "name": "Adventist University of Africa",
-      "domains": ["aua.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.aua.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 9876543",
-        "email": "info@aua.ac.ke",
-        "address": "P.O. Box 00503, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "4",
-      "name": "Chuka University",
-      "domains": ["chuka.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.chuka.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 8765432",
-        "email": "info@chuka.ac.ke",
-        "address": "P.O. Box 109-60400, Chuka, Kenya"
-      }
-    },
-    {
-      "id": "5",
+      "id": "2",
       "name": "Catholic University of Eastern Africa",
       "domains": ["cuea.edu"],
       "ownership": "Private",
       "state-province": null,
       "web_pages": ["http://www.cuea.edu/"],
       "contact": {
-        "phone": "+254 20 1230987",
+        "phone": "+254 20 2345678",
         "email": "info@cuea.edu",
         "address": "P.O. Box 62157, Nairobi, Kenya"
-      }
+      },
+      "courses": [
+        "Bachelor of Commerce",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Law",
+        "Bachelor of Arts in Social Sciences",
+        "Bachelor of Theology",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Arts in Development Studies",
+        "Master of Business Administration",
+        "Master of Education",
+        "Master of Arts in Theology",
+        "Master of Arts in Counseling Psychology",
+        "Diploma in Business Administration",
+        "Diploma in Education",
+        "Diploma in Theology",
+        "Diploma in Information Technology",
+        "Certificate in Business Administration",
+        "Certificate in Theology",
+        "Certificate in Information Technology",
+        "Certificate in Counseling Psychology"
+      ]
     },
     {
-      "id": "6",
+      "id": "3",
       "name": "Daystar University",
       "domains": ["daystar.ac.ke"],
       "ownership": "Private",
       "state-province": null,
       "web_pages": ["http://www.daystar.ac.ke/"],
       "contact": {
-        "phone": "+254 20 2345678",
+        "phone": "+254 20 3456789",
         "email": "info@daystar.ac.ke",
         "address": "P.O. Box 44400, Nairobi, Kenya"
-      }
+      },
+      "courses": [
+        "Bachelor of Arts in Communication",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Theology",
+        "Bachelor of Science in Environmental Health",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Economics",
+        "Master of Business Administration",
+        "Master of Arts in Communication",
+        "Master of Arts in Counseling Psychology",
+        "Master of Education",
+        "Diploma in Business Administration",
+        "Diploma in Communication",
+        "Diploma in Theology",
+        "Diploma in Information Technology",
+        "Certificate in Business Administration",
+        "Certificate in Communication",
+        "Certificate in Information Technology",
+        "Certificate in Environmental Health"
+      ]
     },
     {
-      "id": "7",
+      "id": "4",
       "name": "Dedan Kimathi University of Technology",
       "domains": ["dkut.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.dkut.ac.ke/"],
       "contact": {
-        "phone": "+254 20 3456789",
+        "phone": "+254 20 4567890",
         "email": "info@dkut.ac.ke",
-        "address": "P.O. Box 657, Nyeri, Kenya"
-      }
+        "address": "P.O. Box 657-10100, Nyeri, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Electrical and Electronic Engineering",
+        "Bachelor of Science in Mechatronics Engineering",
+        "Bachelor of Science in Geospatial Engineering",
+        "Bachelor of Science in Actuarial Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Applied Statistics",
+        "Master of Science in Computer Science",
+        "Master of Science in Mechanical Engineering",
+        "Master of Business Administration",
+        "Diploma in Mechanical Engineering",
+        "Diploma in Civil Engineering",
+        "Diploma in Electrical and Electronic Engineering",
+        "Diploma in Information Technology",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology",
+        "Certificate in Electrical and Electronic Engineering"
+      ]
     },
     {
-      "id": "8",
+      "id": "5",
       "name": "Egerton University",
       "domains": ["egerton.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.egerton.ac.ke/"],
       "contact": {
-        "phone": "+254 20 4567890",
-        "email": "info@egerton.ac.ke",
-        "address": "P.O. Box 536, Njoro, Kenya"
-      }
-    },
-    {
-      "id": "9",
-      "name": "Great Lakes University of Kisumu",
-      "domains": ["gluk.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.gluk.ac.ke/"],
-      "contact": {
         "phone": "+254 20 5678901",
-        "email": "info@gluk.ac.ke",
-        "address": "P.O. Box 2224, Kisumu, Kenya"
-      }
+        "email": "info@egerton.ac.ke",
+        "address": "P.O. Box 536-20115, Njoro, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agricultural Economics",
+        "Bachelor of Science in Agronomy",
+        "Bachelor of Veterinary Medicine",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Master of Science in Agricultural Economics",
+        "Master of Business Administration",
+        "Master of Science in Environmental Science",
+        "Diploma in Agricultural Engineering",
+        "Diploma in Business Management",
+        "Diploma in Computer Science",
+        "Certificate in Agricultural Engineering",
+        "Certificate in Business Management",
+        "Certificate in Computer Science",
+        "Certificate in Environmental Science"
+      ]
     },
     {
-      "id": "10",
-      "name": "Gretsa University",
-      "domains": ["gretsauniversity.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.gretsauniversity.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 6789012",
-        "email": "info@gretsauniversity.ac.ke",
-        "address": "P.O. Box 2255, Thika, Kenya"
-      }
-    },
-    {
-      "id": "11",
-      "name": "Inoorero University",
-      "domains": ["iu.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.iu.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 7890123",
-        "email": "info@iu.ac.ke",
-        "address": "P.O. Box 38743, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "12",
+      "id": "6",
       "name": "Jomo Kenyatta University of Agriculture and Technology",
       "domains": ["jkuat.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.jkuat.ac.ke/"],
       "contact": {
-        "phone": "+254 20 8901234",
+        "phone": "+254 67 5870001",
         "email": "info@jkuat.ac.ke",
-        "address": "P.O. Box 62000, Juja, Kenya"
-      }
+        "address": "P.O. Box 62000-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agricultural Engineering",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Mechatronics Engineering",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Information Technology",
+        "Bachelor of Science in Biotechnology",
+        "Bachelor of Science in Horticulture",
+        "Master of Science in Computer Science",
+        "Master of Business Administration",
+        "Master of Science in Agricultural Engineering",
+        "Master of Science in Civil Engineering",
+        "Diploma in Computer Science",
+        "Diploma in Electrical Engineering",
+        "Diploma in Information Technology",
+        "Diploma in Horticulture",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "13",
-      "name": "Jaramogi Oginga Odinga University of Science and Technology",
-      "domains": ["jooust.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.jooust.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 9012345",
-        "email": "info@jooust.ac.ke",
-        "address": "P.O. Box 210-40601, Bondo, Kenya"
-      }
-    },
-    {
-      "id": "14",
-      "name": "Kabarak University",
-      "domains": ["kabarak.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.kabarak.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 0123456",
-        "email": "info@kabarak.ac.ke",
-        "address": "P.O. Box 20157, Kabarak, Kenya"
-      }
-    },
-    {
-      "id": "15",
-      "name": "University of Kabianga",
-      "domains": ["kabianga.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.kabianga.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 1234568",
-        "email": "info@kabianga.ac.ke",
-        "address": "P.O. Box 2030, Kericho, Kenya"
-      }
-    },
-    {
-      "id": "16",
-      "name": "Karatina University",
-      "domains": ["karatinauniversity.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.karatinauniversity.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 2345679",
-        "email": "info@karatinauniversity.ac.ke",
-        "address": "P.O. Box 1957, Karatina, Kenya"
-      }
-    },
-    {
-      "id": "38",
-      "name": "Kenya College of Accountancy",
-      "domains": ["kca.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.kca.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 3456780",
-        "email": "info@kca.ac.ke",
-        "address": "P.O. Box 18321, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "17",
-      "name": "Kenya Methodist University",
-      "domains": ["kemu.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.kemu.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 4567891",
-        "email": "info@kemu.ac.ke",
-        "address": "P.O. Box 267, Meru, Kenya"
-      }
-    },
-    {
-      "id": "18",
-      "name": "Kenya National Open University",
-      "domains": ["knou.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.knou.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 5678902",
-        "email": "info@knou.ac.ke",
-        "address": "P.O. Box 7091, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "19",
-      "name": "Kenya Polytechnic University College",
-      "domains": ["kenpoly.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.kenpoly.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 6789013",
-        "email": "info@kenpoly.ac.ke",
-        "address": "P.O. Box 52428, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "20",
+      "id": "7",
       "name": "Kenyatta University",
       "domains": ["ku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.ku.ac.ke/"],
       "contact": {
-        "phone": "+254 20 7890124",
+        "phone": "+254 20 8703000",
         "email": "info@ku.ac.ke",
-        "address": "P.O. Box 43844, Nairobi, Kenya"
-      }
+        "address": "P.O. Box 43844-00100, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Arts in Communication and Media Studies",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Economics and Finance",
+        "Bachelor of Science in Medical Laboratory Sciences",
+        "Master of Business Administration",
+        "Master of Education",
+        "Master of Science in Computer Science",
+        "Master of Science in Nursing",
+        "Diploma in Education",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Education",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
     },
     {
-      "id": "21",
-      "name": "Laikipia University",
-      "domains": ["laikipia.ac.ke"],
-      "ownership": "Public",
-      "state-province": null,
-      "web_pages": ["http://www.laikipia.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 8901235",
-        "email": "info@laikipia.ac.ke",
-        "address": "P.O. Box 110-20300, Laikipia, Kenya"
-      }
-    },
-    {
-      "id": "22",
+      "id": "8",
       "name": "Maseno University",
       "domains": ["maseno.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.maseno.ac.ke/"],
       "contact": {
-        "phone": "+254 20 9012346",
+        "phone": "+254 57 3516201",
         "email": "info@maseno.ac.ke",
-        "address": "P.O. Box 333, Maseno, Kenya"
-      }
+        "address": "P.O. Box 333-40105, Maseno, Kenya"
+      },
+      "courses": [
+        "Bachelor of Arts in Communication and Media Technology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Arts in Sociology",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Mathematics",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Master of Science in Environmental Science",
+        "Master of Arts in Communication and Media Technology",
+        "Diploma in Education",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Information Technology",
+        "Certificate in Business Management",
+        "Certificate in Environmental Science"
+      ]
     },
     {
-      "id": "23",
-      "name": "Masinde Muliro University of Science and Technology",
-      "domains": ["mmust.ac.ke"],
+      "id": "9",
+      "name": "Moi University",
+      "domains": ["mu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.mmust.ac.ke/"],
+      "web_pages": ["http://www.mu.ac.ke/"],
       "contact": {
-        "phone": "+254 20 0123457",
-        "email": "info@mmust.ac.ke",
-        "address": "P.O. Box 190-50100, Kakamega, Kenya"
-      }
+        "phone": "+254 53 43363",
+        "email": "info@mu.ac.ke",
+        "address": "P.O. Box 3900-30100, Eldoret, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Business Management",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Medicine and Surgery",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Arts in Communication and Journalism",
+        "Bachelor of Arts in International Relations",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Environmental Science",
+        "Master of Education",
+        "Diploma in Education",
+        "Diploma in Business Management",
+        "Diploma in Information Technology",
+        "Certificate in Computer Science",
+        "Certificate in Environmental Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "24",
-      "name": "Mount Kenya University",
-      "domains": ["mku.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.mku.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 1234569",
-        "email": "info@mku.ac.ke",
-        "address": "P.O. Box 342-60200, Thika, Kenya"
-      }
-    },
-    {
-      "id": "25",
+      "id": "10",
       "name": "Multimedia University of Kenya",
       "domains": ["mmu.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.mmu.ac.ke/"],
       "contact": {
-        "phone": "+254 20 2345670",
+        "phone": "+254 20 7252000",
         "email": "info@mmu.ac.ke",
-        "address": "P.O. Box 15653, Nairobi, Kenya"
-      }
+        "address": "P.O. Box 15653-00503, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Telecommunication and Information Engineering",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Business Information Technology",
+        "Bachelor of Journalism and Mass Communication",
+        "Bachelor of Film and Animation Studies",
+        "Bachelor of Commerce",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Electrical and Electronic Engineering",
+        "Master of Science in Telecommunication Engineering",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Telecommunication Engineering",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Diploma in Film and Animation",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology",
+        "Certificate in Journalism and Mass Communication"
+      ]
     },
     {
-      "id": "26",
-      "name": "Nairobi Institute of Technology",
-      "domains": ["nit.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.nit.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 3456781",
-        "email": "info@nit.ac.ke",
-        "address": "P.O. Box 13400, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "27",
-      "name": "Nairobi University",
-      "domains": ["uonbi.ac.ke"],
+      "id": "11",
+      "name": "Murang'a University of Technology",
+      "domains": ["mut.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.uonbi.ac.ke/"],
+      "web_pages": ["http://www.mut.ac.ke/"],
       "contact": {
-        "phone": "+254 20 4567892",
-        "email": "info@uonbi.ac.ke",
-        "address": "P.O. Box 30197, Nairobi, Kenya"
-      }
+        "phone": "+254 60 2031012",
+        "email": "info@mut.ac.ke",
+        "address": "P.O. Box 75-10200, Murang'a, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Mathematics and Computer Science",
+        "Bachelor of Business Information Technology",
+        "Bachelor of Commerce",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Mathematics and Economics",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Civil Engineering",
+        "Master of Science in Information Technology",
+        "Master of Business Administration",
+        "Master of Education",
+        "Diploma in Information Technology",
+        "Diploma in Business Administration",
+        "Diploma in Education",
+        "Certificate in Information Technology",
+        "Certificate in Business Administration",
+        "Certificate in Education",
+        "Certificate in Computer Science"
+      ]
     },
     {
-      "id": "28",
-      "name": "Riara University",
-      "domains": ["riarauniversity.ac.ke"],
-      "ownership": "Private",
+      "id": "12",
+      "name": "Pwani University",
+      "domains": ["pu.ac.ke"],
+      "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.riarauniversity.ac.ke/"],
+      "web_pages": ["http://www.pu.ac.ke/"],
       "contact": {
-        "phone": "+254 20 5678903",
-        "email": "info@riarauniversity.ac.ke",
-        "address": "P.O. Box 55599, Nairobi, Kenya"
-      }
+        "phone": "+254 41 7525102",
+        "email": "info@pu.ac.ke",
+        "address": "P.O. Box 195-80108, Kilifi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Marine Resource Management",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Environmental Health",
+        "Bachelor of Science in Biotechnology",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Environmental Science",
+        "Diploma in Marine Resource Management",
+        "Diploma in Agriculture",
+        "Certificate in Environmental Science",
+        "Certificate in Marine Resource Management",
+        "Certificate in Information Technology",
+        "Certificate in Business Administration"
+      ]
     },
     {
-      "id": "29",
+      "id": "13",
       "name": "South Eastern Kenya University",
       "domains": ["seku.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.seku.ac.ke/"],
       "contact": {
-        "phone": "+254 20 6789014",
+        "phone": "+254 20 2413859",
         "email": "info@seku.ac.ke",
-        "address": "P.O. Box 170-60400, Kitui, Kenya"
-      }
+        "address": "P.O. Box 170-90200, Kitui, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Arts in International Relations",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Environmental Science",
+        "Diploma in Agriculture",
+        "Diploma in Information Technology",
+        "Diploma in Business Administration",
+        "Certificate in Environmental Science",
+        "Certificate in Agriculture",
+        "Certificate in Information Technology",
+        "Certificate in Business Administration"
+      ]
     },
     {
-      "id": "30",
-      "name": "St. Paul’s University",
-      "domains": ["spu.ac.ke"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.spu.ac.ke/"],
-      "contact": {
-        "phone": "+254 20 7890125",
-        "email": "info@spu.ac.ke",
-        "address": "P.O. Box 1104-00902, Limuru, Kenya"
-      }
-    },
-    {
-      "id": "31",
-      "name": "Strathmore University",
-      "domains": ["strathmore.edu"],
-      "ownership": "Private",
-      "state-province": null,
-      "web_pages": ["http://www.strathmore.edu/"],
-      "contact": {
-        "phone": "+254 20 8901236",
-        "email": "info@strathmore.edu",
-        "address": "P.O. Box 59857, Nairobi, Kenya"
-      }
-    },
-    {
-      "id": "32",
+      "id": "14",
       "name": "Technical University of Kenya",
       "domains": ["tukenya.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.tukenya.ac.ke/"],
       "contact": {
-        "phone": "+254 20 9012347",
+        "phone": "+254 20 343672",
         "email": "info@tukenya.ac.ke",
-        "address": "P.O. Box 52428, Nairobi, Kenya"
-      }
+        "address": "P.O. Box 52428-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Technology in Civil Engineering",
+        "Bachelor of Technology in Electrical and Electronic Engineering",
+        "Bachelor of Technology in Mechanical Engineering",
+        "Bachelor of Technology in Architecture",
+        "Bachelor of Technology in Surveying and Mapping",
+        "Bachelor of Technology in Geospatial Information Systems",
+        "Bachelor of Technology in Building and Construction Management",
+        "Bachelor of Business Information Technology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Master of Technology in Civil Engineering",
+        "Master of Technology in Electrical and Electronic Engineering",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Civil Engineering",
+        "Diploma in Electrical and Electronic Engineering",
+        "Diploma in Mechanical Engineering",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Certificate in Civil Engineering",
+        "Certificate in Electrical and Electronic Engineering",
+        "Certificate in Mechanical Engineering",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "33",
-      "name": "United States International University Africa",
+      "id": "15",
+      "name": "Technical University of Mombasa",
+      "domains": ["tum.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.tum.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2492222",
+        "email": "info@tum.ac.ke",
+        "address": "P.O. Box 90420-80100, Mombasa, Kenya"
+      },
+      "courses": [
+        "Bachelor of Technology in Civil Engineering",
+        "Bachelor of Technology in Electrical and Electronic Engineering",
+        "Bachelor of Technology in Mechanical Engineering",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Commerce",
+        "Bachelor of Science in Marine Engineering",
+        "Bachelor of Science in Maritime Technology",
+        "Master of Technology in Civil Engineering",
+        "Master of Technology in Electrical and Electronic Engineering",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Civil Engineering",
+        "Diploma in Electrical and Electronic Engineering",
+        "Diploma in Mechanical Engineering",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Certificate in Civil Engineering",
+        "Certificate in Electrical and Electronic Engineering",
+        "Certificate in Mechanical Engineering",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "United States International University - Africa",
       "domains": ["usiu.ac.ke"],
       "ownership": "Private",
       "state-province": null,
       "web_pages": ["http://www.usiu.ac.ke/"],
       "contact": {
-        "phone": "+254 20 1234560",
+        "phone": "+254 730 116000",
         "email": "info@usiu.ac.ke",
-        "address": "P.O. Box 14634, Nairobi, Kenya"
-      }
+        "address": "P.O. Box 14634-00800, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in International Business Administration",
+        "Bachelor of Science in Hotel and Restaurant Management",
+        "Bachelor of Science in Information Systems and Technology",
+        "Bachelor of Science in Applied Computer Technology",
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Arts in Psychology",
+        "Bachelor of Science in Accounting",
+        "Bachelor of Arts in Journalism",
+        "Bachelor of Science in Film Production and Directing",
+        "Master of Business Administration",
+        "Master of Science in Information Systems and Technology",
+        "Master of Arts in International Relations",
+        "Master of Arts in Counseling Psychology",
+        "Master of Arts in Communication Studies",
+        "Diploma in International Business Administration",
+        "Diploma in Hotel and Restaurant Management",
+        "Diploma in Information Systems and Technology",
+        "Certificate in International Business Administration",
+        "Certificate in Hotel and Restaurant Management",
+        "Certificate in Information Systems and Technology"
+      ]
     },
     {
-      "id": "34",
-      "name": "University of Eastern Africa Baraton",
+      "id": "17",
+      "name": "University of Eastern Africa, Baraton",
       "domains": ["ueab.ac.ke"],
       "ownership": "Private",
       "state-province": null,
       "web_pages": ["http://www.ueab.ac.ke/"],
       "contact": {
-        "phone": "+254 20 2345671",
+        "phone": "+254 20 2091604",
         "email": "info@ueab.ac.ke",
-        "address": "P.O. Box 2500, Baraton, Kenya"
-      }
+        "address": "P.O. Box 2500-30100, Eldoret, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Public Health",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Environmental Health",
+        "Master of Science in Nursing",
+        "Master of Science in Public Health",
+        "Master of Business Administration",
+        "Diploma in Nursing",
+        "Diploma in Public Health",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Certificate in Nursing",
+        "Certificate in Public Health",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "35",
+      "id": "18",
       "name": "University of Eldoret",
       "domains": ["uoeld.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.uoeld.ac.ke/"],
       "contact": {
-        "phone": "+254 20 3456782",
+        "phone": "+254 20 2249175",
         "email": "info@uoeld.ac.ke",
-        "address": "P.O. Box 1125, Eldoret, Kenya"
-      }
+        "address": "P.O. Box 1125-30100, Eldoret, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Horticulture",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Fisheries and Aquatic Sciences",
+        "Bachelor of Science in Forestry",
+        "Bachelor of Science in Wood Science and Technology",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Master of Science in Agriculture",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Diploma in Agriculture",
+        "Diploma in Horticulture",
+        "Diploma in Environmental Science",
+        "Diploma in Fisheries and Aquatic Sciences",
+        "Diploma in Forestry",
+        "Diploma in Wood Science and Technology",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Certificate in Agriculture",
+        "Certificate in Horticulture",
+        "Certificate in Environmental Science",
+        "Certificate in Fisheries and Aquatic Sciences",
+        "Certificate in Forestry",
+        "Certificate in Wood Science and Technology",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "36",
-      "name": "University of Kabianga",
-      "domains": ["ukab.ac.ke"],
+      "id": "19",
+      "name": "University of Embu",
+      "domains": ["embuni.ac.ke"],
       "ownership": "Public",
       "state-province": null,
-      "web_pages": ["http://www.ukab.ac.ke/"],
+      "web_pages": ["http://www.embuni.ac.ke/"],
       "contact": {
-        "phone": "+254 20 4567893",
-        "email": "info@ukab.ac.ke",
-        "address": "P.O. Box 2030, Kericho, Kenya"
-      }
+        "phone": "+254 20 2444135",
+        "email": "info@embuni.ac.ke",
+        "address": "P.O. Box 6-60100, Embu, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Master of Science in Agriculture",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Diploma in Agriculture",
+        "Diploma in Environmental Science",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Certificate in Agriculture",
+        "Certificate in Environmental Science",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology"
+      ]
     },
     {
-      "id": "37",
+      "id": "20",
+      "name": "Zetech University",
+      "domains": ["zetech.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.zetech.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2535811",
+        "email": "info@zetech.ac.ke",
+        "address": "P.O. Box 2768-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Business Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Commerce",
+        "Bachelor of Science in Hospitality and Tourism Management",
+        "Bachelor of Science in Film Production and Animation",
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Arts in Journalism and Media Studies",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Business Information Technology",
+        "Diploma in Business Administration",
+        "Diploma in Information Technology",
+        "Diploma in Computer Science",
+        "Diploma in Hospitality and Tourism Management",
+        "Diploma in Film Production and Animation",
+        "Certificate in Business Information Technology",
+        "Certificate in Business Administration",
+        "Certificate in Information Technology",
+        "Certificate in Computer Science",
+        "Certificate in Hospitality and Tourism Management",
+        "Certificate in Film Production and Animation"
+      ]
+    },
+
+    {
+      "id": "21",
+      "name": "KCA University",
+      "domains": ["kca.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.kca.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 3606000",
+        "email": "info@kca.ac.ke",
+        "address": "P.O. Box 56808-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Accounting",
+        "Bachelor of Science in Finance",
+        "Bachelor of Science in Business Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Marketing",
+        "Bachelor of Science in Economics",
+        "Bachelor of Science in Actuarial Science",
+        "Bachelor of Science in Procurement and Supply Chain Management",
+        "Master of Business Administration",
+        "Master of Science in Finance",
+        "Master of Science in Human Resource Management",
+        "Diploma in Accounting",
+        "Diploma in Business Management",
+        "Diploma in Information Technology",
+        "Certificate in Accounting",
+        "Certificate in Business Management",
+        "Certificate in Information Technology"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Kisii University",
+      "domains": ["kisiiuniversity.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.kisiiuniversity.ac.ke/"],
+      "contact": {
+        "phone": "+254 59 22227",
+        "email": "info@kisiiuniversity.ac.ke",
+        "address": "P.O. Box 408-40200, Kisii, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Nursing",
+        "Master of Science in Computer Science",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Diploma in Computer Science",
+        "Diploma in Information Technology",
+        "Diploma in Environmental Science",
+        "Diploma in Agriculture",
+        "Certificate in Computer Science",
+        "Certificate in Information Technology",
+        "Certificate in Environmental Science",
+        "Certificate in Agriculture"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Mount Kenya University",
+      "domains": ["mku.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.mku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 810078",
+        "email": "info@mku.ac.ke",
+        "address": "P.O. Box 342-60200, Thika, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Business Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Public Health",
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Public Health",
+        "Diploma in Business Information Technology",
+        "Diploma in Computer Science",
+        "Diploma in Nursing",
+        "Diploma in Public Health",
+        "Certificate in Business Information Technology",
+        "Certificate in Computer Science",
+        "Certificate in Nursing",
+        "Certificate in Public Health"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Egerton University",
+      "domains": ["egerton.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.egerton.ac.ke/"],
+      "contact": {
+        "phone": "+254 51 2217941",
+        "email": "info@egerton.ac.ke",
+        "address": "P.O. Box 536-20115, Egerton, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Animal Science",
+        "Bachelor of Science in Horticulture",
+        "Bachelor of Science in Agricultural Economics",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Science)",
+        "Master of Science in Agriculture",
+        "Master of Science in Environmental Science",
+        "Master of Business Administration",
+        "Diploma in Agriculture",
+        "Diploma in Environmental Science",
+        "Diploma in Computer Science",
+        "Certificate in Agriculture",
+        "Certificate in Environmental Science",
+        "Certificate in Computer Science"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Technical University of Kenya",
+      "domains": ["tukenya.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.tukenya.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8025000",
+        "email": "info@tukenya.ac.ke",
+        "address": "P.O. Box 52428-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Automotive Engineering",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Quantity Surveying",
+        "Master of Science in Engineering",
+        "Master of Business Administration",
+        "Diploma in Engineering",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Engineering",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Kenyatta University",
+      "domains": ["ku.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.ku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8703000",
+        "email": "info@ku.ac.ke",
+        "address": "P.O. Box 43844-00100, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Environmental Science",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Environmental Science",
+        "Diploma in Education",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Education",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "27",
       "name": "University of Nairobi",
       "domains": ["uonbi.ac.ke"],
       "ownership": "Public",
       "state-province": null,
       "web_pages": ["http://www.uonbi.ac.ke/"],
       "contact": {
-        "phone": "+254 20 5678904",
+        "phone": "+254 20 3318000",
         "email": "info@uonbi.ac.ke",
-        "address": "P.O. Box 30197, Nairobi, Kenya"
-      }
+        "address": "P.O. Box 30197-00100, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Arts in Sociology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Architecture",
+        "Bachelor of Science in Environmental Science",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Engineering",
+        "Diploma in Engineering",
+        "Diploma in Computer Science",
+        "Diploma in Environmental Science",
+        "Certificate in Engineering",
+        "Certificate in Computer Science",
+        "Certificate in Environmental Science"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Jomo Kenyatta University of Agriculture and Technology",
+      "domains": ["jkuat.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.jkuat.ac.ke/"],
+      "contact": {
+        "phone": "+254 67 52711",
+        "email": "info@jkuat.ac.ke",
+        "address": "P.O. Box 62000-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Agricultural Engineering",
+        "Bachelor of Science in Biotechnology",
+        "Bachelor of Science in Food Science and Technology",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Agricultural Engineering",
+        "Master of Business Administration",
+        "Diploma in Engineering",
+        "Diploma in Information Technology",
+        "Diploma in Agricultural Engineering",
+        "Certificate in Engineering",
+        "Certificate in Information Technology",
+        "Certificate in Agricultural Engineering"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Moi University",
+      "domains": ["mu.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.mu.ac.ke/"],
+      "contact": {
+        "phone": "+254 53 43353",
+        "email": "info@mu.ac.ke",
+        "address": "P.O. Box 3900-30100, Eldoret, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Engineering",
+        "Diploma in Engineering",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Engineering",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "African Nazarene University",
+      "domains": ["anu.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.anu.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2419295",
+        "email": "info@anu.ac.ke",
+        "address": "P.O. Box 53067-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Education (Science)",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Information Technology",
+        "Diploma in Business Administration",
+        "Certificate in Information Technology",
+        "Certificate in Business Administration"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Chuka University",
+      "domains": ["chuka.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.chuka.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2330432",
+        "email": "info@chuka.ac.ke",
+        "address": "P.O. Box 109-60400, Chuka, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Science)",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Maseno University",
+      "domains": ["maseno.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.maseno.ac.ke/"],
+      "contact": {
+        "phone": "+254 57 2501810",
+        "email": "info@maseno.ac.ke",
+        "address": "P.O. Box 333-40105, Maseno, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Agriculture",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Moi University",
+      "domains": ["mu.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.mu.ac.ke/"],
+      "contact": {
+        "phone": "+254 53 43353",
+        "email": "info@mu.ac.ke",
+        "address": "P.O. Box 3900-30100, Eldoret, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Civil Engineering",
+        "Bachelor of Science in Mechanical Engineering",
+        "Bachelor of Science in Electrical Engineering",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Engineering",
+        "Diploma in Engineering",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Engineering",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Daystar University",
+      "domains": ["daystar.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.daystar.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2345098",
+        "email": "info@daystar.ac.ke",
+        "address": "P.O. Box 44400-00100, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Arts in Communication",
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Master of Business Administration",
+        "Master of Arts in Communication",
+        "Diploma in Communication",
+        "Diploma in Business Administration",
+        "Certificate in Communication",
+        "Certificate in Business Administration"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Pan Africa Christian University",
+      "domains": ["pacuniversity.ac.ke"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.pacuniversity.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2342920",
+        "email": "info@pacuniversity.ac.ke",
+        "address": "P.O. Box 56875-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Arts in Theology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Information Technology",
+        "Master of Business Administration",
+        "Master of Arts in Theology",
+        "Diploma in Theology",
+        "Diploma in Business Management",
+        "Certificate in Theology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "University of Kabianga",
+      "domains": ["kabianga.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.kabianga.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 2140507",
+        "email": "info@kabianga.ac.ke",
+        "address": "P.O. Box 2030-20200, Kericho, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Business Administration",
+        "Bachelor of Education (Science)",
+        "Master of Science in Computer Science",
+        "Master of Business Administration",
+        "Diploma in Agriculture",
+        "Diploma in Information Technology",
+        "Certificate in Agriculture",
+        "Certificate in Information Technology"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Kenyatta University",
+      "domains": ["ku.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.ku.ac.ke/"],
+      "contact": {
+        "phone": "+254 20 8703000",
+        "email": "info@ku.ac.ke",
+        "address": "P.O. Box 43844-00100, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Education (Arts)",
+        "Bachelor of Education (Science)",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Science in Nursing",
+        "Bachelor of Science in Environmental Science",
+        "Master of Business Administration",
+        "Master of Science in Computer Science",
+        "Master of Science in Environmental Science",
+        "Diploma in Education",
+        "Diploma in Information Technology",
+        "Diploma in Business Management",
+        "Certificate in Education",
+        "Certificate in Information Technology",
+        "Certificate in Business Management"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Strathmore University",
+      "domains": ["strathmore.edu"],
+      "ownership": "Private",
+      "state-province": null,
+      "web_pages": ["http://www.strathmore.edu/"],
+      "contact": {
+        "phone": "+254 20 6007000",
+        "email": "info@strathmore.edu",
+        "address": "P.O. Box 59857-00200, Nairobi, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Information Technology",
+        "Bachelor of Business Administration",
+        "Bachelor of Laws",
+        "Master of Business Administration",
+        "Master of Science in Information Technology",
+        "Diploma in Information Technology",
+        "Diploma in Business Administration",
+        "Certificate in Information Technology",
+        "Certificate in Business Administration"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Egerton University",
+      "domains": ["egerton.ac.ke"],
+      "ownership": "Public",
+      "state-province": null,
+      "web_pages": ["http://www.egerton.ac.ke/"],
+      "contact": {
+        "phone": "+254 51 2217000",
+        "email": "info@egerton.ac.ke",
+        "address": "P.O. Box 536-20115, Njoro, Kenya"
+      },
+      "courses": [
+        "Bachelor of Science in Agriculture",
+        "Bachelor of Science in Animal Science",
+        "Bachelor of Science in Horticulture",
+        "Bachelor of Science in Food Science and Technology",
+        "Bachelor of Science in Computer Science",
+        "Bachelor of Science in Environmental Science",
+        "Bachelor of Business Administration",
+        "Master of Business Administration",
+        "Master of Science in Agriculture",
+        "Diploma in Agriculture",
+        "Diploma in Animal Science",
+        "Diploma in Horticulture",
+        "Certificate in Agriculture",
+        "Certificate in Animal Science",
+        "Certificate in Horticulture"
+      ]
     }
   ]
 }

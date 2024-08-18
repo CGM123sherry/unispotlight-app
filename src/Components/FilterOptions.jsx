@@ -1,25 +1,19 @@
 // src/components/FilterOptions.jsx
-import React, { useState } from "react";
+import React from "react";
 
-function FilterOptions({ onFilter }) {
-  const [filter, setFilter] = useState("");
-
-  const handleFilterChange = (e) => {
-    setFilter(e.target.value);
-    onFilter(e.target.value);
-  };
+function FilterOptions({ university, onCourseClick }) {
+  const courses = Array.from(new Set(university?.courses || [])).sort();
 
   return (
-    <div style={{ marginBottom: "1rem" }}>
-      <select
-        value={filter}
-        onChange={handleFilterChange}
-        style={{ padding: "0.5rem", width: "100%" }}
-      >
-        <option value="">All</option>
-        <option value="public">Public</option>
-        <option value="private">Private</option>
-      </select>
+    <div className="filter-options">
+      <h4>Courses for {university?.name}</h4>
+      <ul>
+        {courses.map((course) => (
+          <li key={course} onClick={() => onCourseClick(course)}>
+            {course}
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }

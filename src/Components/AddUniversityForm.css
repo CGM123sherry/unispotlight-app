@@ -1,0 +1,52 @@
+.add-university-container {
+  width: 100%;
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-bottom: 2px solid #007bff;
+}
+
+.add-university-containerh2 {
+  margin-bottom: 20px;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.add-university-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.add-university-formdiv {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.add-university-formlabel {
+  font-weight: bold;
+  margin-right: 5px;
+  width: 150px; /* Adjust as needed */
+}
+
+.add-university-forminput {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  flex: 1;
+}
+
+.add-university-formbutton {
+  padding: 10px15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  flex: 1;
+  max-width: 150px; /* Adjust width as needed */
+}
+
+.add-university-formbutton:hover {
+  background-color: #0056b3;
+}

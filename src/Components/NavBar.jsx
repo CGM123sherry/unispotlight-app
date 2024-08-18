@@ -8,7 +8,7 @@ function NavBar() {
         Home
       </Link>
       <Link to="/filter" style={{ marginRight: "1rem" }}>
-        Filter Universities
+        Courses
       </Link>
 
       <Link to="/contact" style={{ marginRight: "1rem" }}>

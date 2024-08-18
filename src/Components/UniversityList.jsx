@@ -2,17 +2,25 @@ import React from "react";
 import UniversityCard from "./UniversityCard";
 import "./UniversityList.css";
 
-function UniversityList({ universities, onSelectUniversity }) {
+function UniversityList({
+  universities,
+  onUniversitySelect,
+  selectedUniversity,
+}) {
   return (
-    <div>
+    <ul className="university-list">
       {universities.map((university) => (
-        <UniversityCard
+        <li
           key={university.id}
-          university={university}
-          onSelectUniversity={onSelectUniversity}
-        />
+          className={university.id === selectedUniversity?.id ? "selected" : ""}
+        >
+          <UniversityCard
+            university={university}
+            onSelectUniversity={onUniversitySelect}
+          />
+        </li>
       ))}
-    </div>
+    </ul>
   );
 }
 

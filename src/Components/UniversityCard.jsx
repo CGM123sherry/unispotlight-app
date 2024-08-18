@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./UniversityCard.css";
 
 function UniversityCard({ university, onSelectUniversity }) {
@@ -8,7 +8,7 @@ function UniversityCard({ university, onSelectUniversity }) {
       style={{ cursor: "pointer", marginBottom: "10px" }}
     >
       <h3>{university.name}</h3>
-      <p>{university.ownership}</p>
+      <p>{university.course}</p>
     </div>
   );
 }
