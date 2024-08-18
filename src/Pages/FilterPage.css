@@ -8,29 +8,27 @@
   background: url("../images/university-columns.jpg") no-repeat center center
     fixed;
   background-size: cover;
-  position: relative; /
+  position: relative;
 }
-
 
 .content-container {
   display: flex;
   flex: 1;
 }
 
-
 .left-sidebar {
-  width: 25%; 
+  width: 25%;
   padding: 10px;
-  position: fixed; 
-  top: 60px; 
-  left: 0; 
+  position: fixed;
+  top: 60px;
+  left: 0;
   background-color: rgba(255, 255, 255, 0.9);
   border-right: 2px solid #ddd;
   border-radius: 8px;
   box-shadow: 4px 8px rgba(0, 0, 0, 0.2);
-  height: calc(100vh - 60px); 
+  height: calc(100vh - 60px);
   overflow-y: auto;
-  z-index: 100; 
+  z-index: 100;
 }
 
 .left-sidebar .heading {
@@ -40,34 +38,31 @@
 }
 
 .left-sidebar .search-bar {
-  margin-top: 20px; 
+  margin-top: 20px;
 }
-
 
 .right-content {
-  width: calc(100% - 25%); 
-  padding: 50px; 
-  margin-left: 25%; 
-  box-sizing: border-box; 
+  width: calc(100% - 25%);
+  padding: 50px;
+  margin-left: 25%;
+  box-sizing: border-box;
 }
 
-
 .add-course-form {
-  position: fixed; 
-  top: 60px; 
-  left: 25%; 
-  width: 75%; 
+  position: fixed;
+  top: 60px;
+  left: 25%;
+  width: 75%;
   background: #f9f9f9;
   padding: 10px;
   border-bottom: 1px solid #ddd;
-  z-index: 1000; 
+  z-index: 1000;
 }
 
 .message {
   font-size: 1.2em;
   color: #555;
 }
-
 
 .course-suggestions {
   border: 1px solid #ddd;
@@ -87,13 +82,12 @@
   background: #ddd;
 }
 
-
 .filter-options {
   background-color: rgba(255, 255, 255, 0.9);
   border-radius: 8px;
   box-shadow: 4px 8px rgba(0, 0, 0, 0.2);
   padding: 1rem;
-  margin-left: 0; 
+  margin-left: 0;
 }
 
 .filter-options ul {
@@ -113,7 +107,6 @@
   background-color: #f0f0f0;
   transform: scale(1.02);
 }
-
 
 .university-card {
   background-color: #e0e0e0;
@@ -137,7 +130,6 @@
   margin: 0;
 }
 
-
 .message {
   text-align: center;
   font-size: 1.5rem;
@@ -147,7 +139,6 @@
   border-radius: 8px;
   box-shadow: 4px 8px rgba(0, 0, 0, 0.1);
 }
-
 
 .navbar {
   position: fixed; /* Fixed to stay at the top */
