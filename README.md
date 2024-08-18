@@ -34,7 +34,6 @@ Add a university by filling in the form. the newly add university will appear at
 
             Add Course form allows the users to make a course adjustment by add a course to the potfolio.
 
-
 3.  Contact Page
     The Contact Page provides contact details for each university. It includes:
     University Cards: Each card displays the university’s name, email, phone number, address, and website.
@@ -58,6 +57,6 @@ Interact with Content: Use the search bar and filter options to customize the vi
 View Details: Click on university cards to view detailed information and access the university’s website directly.
 
 you can also get access the app via my github link below:
-git@github.com:CGM123sherry/unispotlight-app.git
+git@github.com:https://github.com/CGM123sherry/unispotlight-app
 
 as well as netlify link:
