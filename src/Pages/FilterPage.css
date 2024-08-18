@@ -5,8 +5,8 @@
   flex-direction: column;
   padding: 2rem;
   min-height: 100vh;
-  background: url("../images/university-columns.jpg") no-repeat center center
-    fixed;
+  background: url("/public/images/university-columns.jpg") no-repeat center
+    center fixed;
   background-size: cover;
   position: relative;
 }
