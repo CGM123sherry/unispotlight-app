@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import UniversityContactList from "../Components/UniversityContactList";
-import Map from "../Components/Map";
+// import Map from "../Components/Map";
 import "./ContactPage.css";
 
 const ContactPage = () => {

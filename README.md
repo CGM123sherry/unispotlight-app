@@ -64,4 +64,4 @@ git@github.com:https://github.com/CGM123sherry/unispotlight-app
 
 as well as netlify link:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/60a88909-ca7a-4d3a-98ba-91c5df0c3080/deploy-status?branch=dev)](https://app.netlify.com/sites/unispotlight-app/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60a88909-ca7a-4d3a-98ba-91c5df0c3080/deploy-status?branch=master)](https://app.netlify.com/sites/unispotlight-app/deploys)
